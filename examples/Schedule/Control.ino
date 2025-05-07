@@ -1,4 +1,4 @@
-// IMPLEMENTO DE FUNÇÔES
+// Editar
 
 void acionaRele(byte numDevice) {
   Serial.print("Acionado (");
